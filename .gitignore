@@ -1,0 +1,19 @@
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore object and build files
+*.o
+*.obj
+*.dll
+*.so
+*.dSYM
+
+# Ignore the build directories
+/build/
+/bin/
+/obj/
+
+# Ignore .json files
+*.json
