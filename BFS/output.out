@@ -1,0 +1,16 @@
+0 : 2 3 
+1 : 2 3 5 
+2 : 0 1 4 
+3 : 0 1 5 6 
+4 : 2 6 
+5 : 1 3 7 
+6 : 3 4 7 
+7 : 5 6 
+BFS from Starting Node 0: 0 2 3 1 4 5 6 7 
+BFS from Starting Node 1: 1 2 3 5 0 4 6 7 
+BFS from Starting Node 2: 2 0 1 4 3 5 6 7 
+BFS from Starting Node 3: 3 0 1 5 6 2 7 4 
+BFS from Starting Node 4: 4 2 6 0 1 3 7 5 
+BFS from Starting Node 5: 5 1 3 7 2 0 6 4 
+BFS from Starting Node 6: 6 3 4 7 0 1 5 2 
+BFS from Starting Node 7: 7 5 6 1 3 4 2 0 
